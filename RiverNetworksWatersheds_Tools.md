@@ -16,7 +16,9 @@
 - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib. These are old, last maintained in May 2013
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/nhdplus2
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/hydro1k
-- landlab?
+- [Landlab](http://landlab.github.io)
+  - [Flow Routing](https://landlab.readthedocs.io/en/release/#flow-routing) component
+  - [Terrain Analysis](https://landlab.readthedocs.io/en/latest/#terrain-analysis) component
 
 ## Network analysis
 - [USGS CIDA - NLDI: The Hydro Network-Linked Data Index](https://owi.usgs.gov/blog/nldi-intro/)
