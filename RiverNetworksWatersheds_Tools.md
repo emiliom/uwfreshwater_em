@@ -21,8 +21,12 @@
   - [Terrain Analysis](https://landlab.readthedocs.io/en/latest/#terrain-analysis) component
 
 ## Network analysis
+- Demir, Ibrahim, and Robert Szczepanek. 2017. “Optimization of River Network Representation Data Models for Web-Based Systems.” Earth and Space Science 4 (6): 336–47. https://doi.org/10.1002/2016EA000224.
 - [USGS CIDA - NLDI: The Hydro Network-Linked Data Index](https://owi.usgs.gov/blog/nldi-intro/)
   - https://my.usgs.gov/confluence/display/qwdp/Networked+Linked+Data+Index
   - [OGC ELFIE](http://www.opengeospatial.org/projects/initiatives/elfie)
-- Demir, Ibrahim, and Robert Szczepanek. 2017. “Optimization of River Network Representation Data Models for Web-Based Systems.” Earth and Space Science 4 (6): 336–47. https://doi.org/10.1002/2016EA000224.
-- My "treepath" code, via my examples from Costa Rica HydroSheds watersheds
+- HUC codes, NHDPlus. Horizon Systems Corporation. 2016. “NHD Plus Version 2: Users Guide.” http://www.horizon-systems.com/nhdplus/.
+- Pfastteter coding
+- Tree / network path analysis
+  - [treelib](https://github.com/caesar0301/treelib), "An efficient implementation of tree data structure in python". 
+  - My treelib network querying code, via my examples from Costa Rica HydroSheds watersheds
