@@ -17,7 +17,7 @@
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/nhdplus2
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/hydro1k
 - [Landlab](http://landlab.github.io)
-  - [Flow Routing](https://landlab.readthedocs.io/en/release/#flow-routing) component
+  - [Flow Routing](https://landlab.readthedocs.io/en/release/#flow-routing) component. See also the related notebooks, including [flow_direction_and_accumulation/the_FlowDirectors.ipynb](https://nbviewer.jupyter.org/github/landlab/tutorials/blob/release/flow_direction_and_accumulation/the_FlowDirectors.ipynb)
   - [Terrain Analysis](https://landlab.readthedocs.io/en/latest/#terrain-analysis) component
 
 ## Network analysis
