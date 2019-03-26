@@ -12,7 +12,8 @@
   - https://github.com/WikiWatershed/rapid-watershed-delineation/
   - MMW RWD web service
   - Sazib, Nazmus S. 2016. “Physically Based Modeling of the Impacts of Climate Change on Streamflow Regime.” PhD, Civil and Environmental Engineering, Utah State University. http://digitalcommons.usu.edu/etd/5067/.
-  - Tarboton, David G., Nazmus Sazib, and Anthony K. Aufdenkampe. 2018. “The Model My Watershed Rapid Watershed Delineation Tool | CUAHSI HydroShare.” 2018. https://www.hydroshare.org/resource/d752efeae812478898fb78327f25c87c/.
+  - Tarboton, David G., Nazmus Sazib, and Anthony K. Aufdenkampe. 2018. “The Model My Watershed Rapid Watershed Delineation Tool | CUAHSI HydroShare.” 2018. https://www.hydroshare.org/resource/d752efeae812478898fb78327f25c87c/
+- [pysheds](https://github.com/mdbartos/pysheds). "Simple and fast watershed delineation in python". https://www.esipfed.org/student-fellow-blog/pysheds-a-fast-open-source-digital-elevation-model-processing-library
 - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib. These are old, last maintained in May 2013
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/nhdplus2
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/hydro1k
