@@ -34,3 +34,4 @@
 - Tree / network path analysis
   - [treelib](https://github.com/caesar0301/treelib), "An efficient implementation of tree data structure in python". 
   - My treelib network querying code, via my examples from Costa Rica HydroSheds watersheds
+  - Graph-theory approaches
