@@ -21,12 +21,16 @@
   - [Terrain Analysis](https://landlab.readthedocs.io/en/latest/#terrain-analysis) component
 
 ## Network analysis
-- Demir, Ibrahim, and Robert Szczepanek. 2017. “Optimization of River Network Representation Data Models for Web-Based Systems.” Earth and Space Science 4 (6): 336–47. https://doi.org/10.1002/2016EA000224.
+- Papers. Demir et al (2017) in particular seems really valuable
+  - Cui, Zhengtao, Victor Koren, Neftali Cajina, Andreas Voellmy, and Fekadu Moreda. 2011. “Hydroinformatics Advances for Operational River Forecasting: Using Graphs for Drainage Network Descriptions.” Journal of Hydroinformatics 13 (2): 181–97. https://doi.org/10.2166/hydro.2010.023.
+  - de Jager, A. L., and J. V. Vogt. 2010. “Development and Demonstration of a Structured Hydrological Feature Coding System for Europe.” Hydrological Sciences Journal 55 (5): 661–75. https://doi.org/10.1080/02626667.2010.490786
+  - **Demir, Ibrahim, and Robert Szczepanek. 2017.** “Optimization of River Network Representation Data Models for Web-Based Systems.” Earth and Space Science 4 (6): 336–47. https://doi.org/10.1002/2016EA000224
+  - Riedl, Doris. 2014. “Algorithms for Surface Water Networks and Their Catchments.” Phd, wien: uniwien. http://othes.univie.ac.at/33600/.
 - [USGS CIDA - NLDI: The Hydro Network-Linked Data Index](https://owi.usgs.gov/blog/nldi-intro/)
   - https://my.usgs.gov/confluence/display/qwdp/Networked+Linked+Data+Index
   - [OGC ELFIE](http://www.opengeospatial.org/projects/initiatives/elfie)
 - HUC codes, NHDPlus. Horizon Systems Corporation. 2016. “NHD Plus Version 2: Users Guide.” http://www.horizon-systems.com/nhdplus/.
-- [Pfastteter topological coding system](https://en.wikipedia.org/wiki/Pfafstetter_Coding_System). Querying for network relationships based on these codes. HydroBASINS. See my [GeoHackWeek vector example](https://geohackweek.github.io/vector/06-geopandas-advanced/)
+- [Pfastteter topological coding system](https://en.wikipedia.org/wiki/Pfafstetter_Coding_System). Querying for network relationships based on these codes. HydroBASINS, HydroSHEDS. See my [GeoHackWeek vector example](https://geohackweek.github.io/vector/06-geopandas-advanced/)
 - Tree / network path analysis
   - [treelib](https://github.com/caesar0301/treelib), "An efficient implementation of tree data structure in python". 
   - My treelib network querying code, via my examples from Costa Rica HydroSheds watersheds
