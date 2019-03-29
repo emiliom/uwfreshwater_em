@@ -34,6 +34,6 @@
 - HUC codes, NHDPlus. Horizon Systems Corporation. 2016. “NHD Plus Version 2: Users Guide.” http://www.horizon-systems.com/nhdplus/.
 - [Pfastteter topological coding system](https://en.wikipedia.org/wiki/Pfafstetter_Coding_System). Querying for network relationships based on these codes. HydroBASINS, HydroSHEDS. See my [GeoHackWeek vector example](https://geohackweek.github.io/vector/06-geopandas-advanced/)
 - Tree / network path analysis
+  - [anytree](https://github.com/c0fec0de/anytree). My anytree network querying code, via my examples from Costa Rica HydroSheds watersheds
   - [treelib](https://github.com/caesar0301/treelib), "An efficient implementation of tree data structure in python". 
-  - My treelib network querying code, via my examples from Costa Rica HydroSheds watersheds
   - Graph-theory approaches
