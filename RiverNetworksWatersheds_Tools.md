@@ -14,6 +14,12 @@
   - Sazib, Nazmus S. 2016. “Physically Based Modeling of the Impacts of Climate Change on Streamflow Regime.” PhD, Civil and Environmental Engineering, Utah State University. http://digitalcommons.usu.edu/etd/5067/.
   - Tarboton, David G., Nazmus Sazib, and Anthony K. Aufdenkampe. 2018. “The Model My Watershed Rapid Watershed Delineation Tool | CUAHSI HydroShare.” 2018. https://www.hydroshare.org/resource/d752efeae812478898fb78327f25c87c/
 - [pysheds](https://github.com/mdbartos/pysheds). "Simple and fast watershed delineation in python". https://www.esipfed.org/student-fellow-blog/pysheds-a-fast-open-source-digital-elevation-model-processing-library
+  - See my WaterHackWeek2019 notebook, `andeanamaz_pysheds.ipynb`
+  - Some helpful links/docs I found:
+    - https://github.com/mdbartos/pysheds/blob/master/examples/shapefiles.ipynb
+    - https://github.com/mdbartos/pysheds/blob/master/examples/snap_to_mask.ipynb
+    - [accept raster / array of pour points as input to catchment, issue #64](https://github.com/mdbartos/pysheds/issues/64#issuecomment-462951248)
+    - https://github.com/cfandel/gottesacker/blob/master/subwatersheds.ipynb
 - [watershed](https://github.com/phobson/watershed)
 - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib. These are old, last maintained in May 2013
   - https://github.com/selimnairb/EcohydroLib/tree/master/ecohydrolib/nhdplus2
