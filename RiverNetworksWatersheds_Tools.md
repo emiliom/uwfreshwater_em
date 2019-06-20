@@ -3,8 +3,10 @@
 
 ## Digital Terrain Analysis, river network extraction and watershed delineation
 - [TauDEM](http://hydrology.usu.edu/taudem/taudem5/index.html)
+  - http://hydrology.usu.edu/taudem/taudem5/
   - https://github.com/dtarb/TauDEM
   - https://github.com/alexbruy/processing-taudem
+  - https://github.com/WikiWatershed/docker-taudem
 - Rapid Watershed Delineation
   - https://github.com/nazmussazib/RapidWatersheDelineation/
   - https://github.com/WikiWatershed/rapid-watershed-delineation/
