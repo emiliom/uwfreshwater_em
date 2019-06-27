@@ -65,3 +65,8 @@
     - https://gis.stackexchange.com/questions/227909/from-shapefile-to-python-networkx
     - https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e
     - https://www.esipfed.org/uncategorized/natural-resources-nutrient-loading-and-networkx-watershed-network-analysis-part-i
+
+## R tools
+- [Watersheds:](https://cran.r-project.org/web/packages/Watersheds/index.html) Spatial Watershed Aggregation and Spatial Drainage Network Analysis
+- [hydrolinks:](https://cran.r-project.org/web/packages/hydrolinks/index.html) Tools to link geographic data with hydrologic network, including lakes, streams and rivers. Includes automated download of U.S. National Hydrography Network and other hydrolayers. See this vignette: [WQP Lake Linking Example - Linking Water Quality Portal](https://cran.r-project.org/web/packages/hydrolinks/vignettes/wqp_lake_linking_example.html)
+- [CRAN Task View: Hydrological Data and Modeling](https://cran.r-project.org/web/views/Hydrology.html). Curated listing of relevant packages
