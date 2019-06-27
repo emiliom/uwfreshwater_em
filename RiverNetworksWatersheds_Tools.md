@@ -1,5 +1,5 @@
 # Compilation of open-source tools that perform river network extraction, network analysis, and watershed generation
-**Python-centric or web-serviced based tools or access to important datasets.** 
+**Python-centric or web-service based tools or access to important datasets.** 
 
 ## Digital Terrain Analysis, river network extraction and watershed delineation
 - [TauDEM](http://hydrology.usu.edu/taudem/taudem5/index.html)
